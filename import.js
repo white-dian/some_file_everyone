@@ -587,7 +587,7 @@ const main = (config) => {
     // "DOMAIN-SUFFIX,discord.com,一键代理",      // 强制某个网站走一键代理
     // "DOMAIN,login.example.com,AI",             // 仅让单个完整域名走指定服务组
     // ==============================================================
-
+    "DOMAIN-SUFFIX,gemini.google.com,日本", 
 
     // 明确直连的常见国内/本地/特定域名
     "DOMAIN-SUFFIX,lan,国内直连",
